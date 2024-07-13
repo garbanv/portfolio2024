@@ -7,8 +7,8 @@ export default function Home() {
 
       <h3>Software Developer</h3>
       <h3>and</h3>
-      <h3>Ambiernt / Experimental / Noise</h3>
-      <h3>music producer</h3>
+      <h3>Ambient / Experimental / Noise</h3>
+      <h3>                 music producer</h3>
     </main>
   );
 }
